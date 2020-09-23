@@ -104,35 +104,35 @@
     <system:String x:Key="StayCentered">窗口保持居中</system:String>
     <system:String x:Key="ColoredWindowBorder">窗口边框颜色</system:String>
     <system:String x:Key="ShowButtonsInHiddenUI">隐藏界面时显示按钮</system:String>
-    <system:String x:Key="CtrlToZoom">Ctrl to zoom, scroll to navigate</system:String>
-    <system:String x:Key="ScrollToZoom">Scroll to zoom, Ctrl to navigate</system:String>
-    <system:String x:Key="Apply">Apply</system:String>
-    <system:String x:Key="AdjustTimingForSlideshow">Adjust timing for slideshow</system:String>
-    <system:String x:Key="AdjustTimingForZoom">Adjust zooming speed</system:String>
-    <system:String x:Key="SecAbbreviation">Sec.</system:String>
-    <system:String x:Key="RestartApp">Restart the application</system:String>
+    <system:String x:Key="CtrlToZoom">按下Ctrl键缩放, 滚轮导航</system:String>
+    <system:String x:Key="ScrollToZoom">滚轮缩放, 按下Ctrl键导航</system:String>
+    <system:String x:Key="Apply">应用</system:String>
+    <system:String x:Key="AdjustTimingForSlideshow">更改幻灯间隔</system:String>
+    <system:String x:Key="AdjustTimingForZoom">更改缩放速度</system:String>
+    <system:String x:Key="SecAbbreviation">秒</system:String>
+    <system:String x:Key="RestartApp">重启应用程序</system:String>
 
     <!--  Set as Default  -->
-    <system:String x:Key="SetAsDefualt">Set as default image viewer</system:String>
-    <system:String x:Key="RemoveFileAssociations">Remove file associations</system:String>
-    <system:String x:Key="RasterFormats">Raster Formats</system:String>
-    <system:String x:Key="VectorGraphics">Vector Graphic</system:String>
-    <system:String x:Key="RawCamera">Raw Camera Formats</system:String>
-    <system:String x:Key="OtherFormats">Other formats</system:String>
-    <system:String x:Key="ComicFormats">Comic books</system:String>
+    <system:String x:Key="SetAsDefualt">设为默认图片应用</system:String>
+    <system:String x:Key="RemoveFileAssociations">移除文件关联</system:String>
+    <system:String x:Key="RasterFormats">位图格式</system:String>
+    <system:String x:Key="VectorGraphics">向量图格式</system:String>
+    <system:String x:Key="RawCamera">相机Raw格式</system:String>
+    <system:String x:Key="OtherFormats">其他格式</system:String>
+    <system:String x:Key="ComicFormats">漫画书</system:String>
 
     <!--  Effects Window  -->
-    <system:String x:Key="HLSLPictureFX">HLSL Picture FX</system:String>
-    <system:String x:Key="ClickToAddShaderEffectToImage">Click button to add specified shader effect to image</system:String>
-    <system:String x:Key="UncheckToRemoveEffect">Uncheck to remove effect</system:String>
+    <system:String x:Key="HLSLPictureFX">HLSL图像特效</system:String>
+    <system:String x:Key="ClickToAddShaderEffectToImage">点击按钮以添加特效到图像</system:String>
+    <system:String x:Key="UncheckToRemoveEffect">取消选框以移除特效</system:String>
 
-    <system:String x:Key="NegativeColors">Negative Colors</system:String>
-    <system:String x:Key="BlackAndWhite">Black &amp; White</system:String>
-    <system:String x:Key="ColorTone">Color Tone</system:String>
+    <system:String x:Key="NegativeColors">反色</system:String>
+    <system:String x:Key="BlackAndWhite">黑白</system:String>
+    <system:String x:Key="ColorTone">色调</system:String>
 
-    <system:String x:Key="OldMovie">Old Movie</system:String>
-    <system:String x:Key="Bloom">Bloom</system:String>
-    <system:String x:Key="Gloom">Gloom</system:String>
+    <system:String x:Key="OldMovie">老电影</system:String>
+    <system:String x:Key="Bloom">风华正茂</system:String>
+    <system:String x:Key="Gloom">朦胧暗淡</system:String>
 
     <system:String x:Key="Monochrome">Monochrome</system:String>
     <system:String x:Key="WaveWarper">Wave Warper</system:String>
@@ -162,70 +162,70 @@
     <system:String x:Key="GlassTile">Glass Tile</system:String>
 
     <!--  Navigation related  -->
-    <system:String x:Key="Navigation">Navigation</system:String>
-    <system:String x:Key="NextImage">Next image</system:String>
-    <system:String x:Key="PrevImage">Previous image</system:String>
-    <system:String x:Key="LastImage">Last image</system:String>
-    <system:String x:Key="FirstImage">First image</system:String>
-    <system:String x:Key="ToggleLooping">Toggle looping</system:String>
-    <system:String x:Key="Slideshow">Slideshow</system:String>
+    <system:String x:Key="Navigation">导航</system:String>
+    <system:String x:Key="NextImage">后一张图</system:String>
+    <system:String x:Key="PrevImage">前一张图</system:String>
+    <system:String x:Key="LastImage">最后一张</system:String>
+    <system:String x:Key="FirstImage">首张图片</system:String>
+    <system:String x:Key="ToggleLooping">循环</system:String>
+    <system:String x:Key="Slideshow">幻灯</system:String>
 
     <!--  Zoom related  -->
-    <system:String x:Key="Zoom">Zoom</system:String>
-    <system:String x:Key="ZoomIn">Zoom In</system:String>
-    <system:String x:Key="ZoomOut">Zoom Out</system:String>
-    <system:String x:Key="Pan">Pan</system:String>
-    <system:String x:Key="MouseDrag">Mouse drag</system:String>
-    <system:String x:Key="ResetZoom">Reset zoom</system:String>
-    <system:String x:Key="ToggleScroll">Toggle scroll</system:String>
+    <system:String x:Key="Zoom">缩放</system:String>
+    <system:String x:Key="ZoomIn">放大</system:String>
+    <system:String x:Key="ZoomOut">缩小</system:String>
+    <system:String x:Key="Pan">移动</system:String>
+    <system:String x:Key="MouseDrag">鼠标拖曳</system:String>
+    <system:String x:Key="ResetZoom">重置缩放</system:String>
+    <system:String x:Key="ToggleScroll">切换滚动</system:String>
 
     <!--  File related  -->
-    <system:String x:Key="Open">Open</system:String>
-    <system:String x:Key="OpenWith">Open with...</system:String>
-    <system:String x:Key="OpenFileDialog">Open file dialog</system:String>
-    <system:String x:Key="ShowInFolder">Show in folder</system:String>
-    <system:String x:Key="Save">Save</system:String>
-    <system:String x:Key="SaveImage">Save image</system:String>
-    <system:String x:Key="Print">Print</system:String>
-    <system:String x:Key="RecentFiles">Recent files</system:String>
-    <system:String x:Key="FileProperties">File properties</system:String>
-    <system:String x:Key="DeleteFile">Delete file</system:String>
-    <system:String x:Key="Folder">Folder</system:String>
-    <system:String x:Key="FullPath">Full path</system:String>
-    <system:String x:Key="RenameFile">Rename file</system:String>
+    <system:String x:Key="Open">打开</system:String>
+    <system:String x:Key="OpenWith">用...打开</system:String>
+    <system:String x:Key="OpenFileDialog">打开文件对话框</system:String>
+    <system:String x:Key="ShowInFolder">在文件夹中查看</system:String>
+    <system:String x:Key="Save">保存</system:String>
+    <system:String x:Key="SaveImage">保存图片</system:String>
+    <system:String x:Key="Print">打印</system:String>
+    <system:String x:Key="RecentFiles">最近文件</system:String>
+    <system:String x:Key="FileProperties">文件属性</system:String>
+    <system:String x:Key="DeleteFile">删除文件</system:String>
+    <system:String x:Key="Folder">文件夹</system:String>
+    <system:String x:Key="FullPath">完整路径</system:String>
+    <system:String x:Key="RenameFile">文件重命名</system:String>
 
     <!--  Sort files  -->
-    <system:String x:Key="SortFilesBy">Sort files by</system:String>
-    <system:String x:Key="FileName">File name</system:String>
-    <system:String x:Key="FileSize">File size</system:String>
-    <system:String x:Key="CreationTime">Creation time</system:String>
-    <system:String x:Key="FileExtension">File extension</system:String>
-    <system:String x:Key="LastAccessTime">Last access time</system:String>
-    <system:String x:Key="LastWriteTime">Last write time</system:String>
-    <system:String x:Key="Random">Random</system:String>
+    <system:String x:Key="SortFilesBy">文件排序</system:String>
+    <system:String x:Key="FileName">文件名</system:String>
+    <system:String x:Key="FileSize">文件大小</system:String>
+    <system:String x:Key="CreationTime">创建时间</system:String>
+    <system:String x:Key="FileExtension">文件类型</system:String>
+    <system:String x:Key="LastAccessTime">最近访问时间</system:String>
+    <system:String x:Key="LastWriteTime">最近修改时间</system:String>
+    <system:String x:Key="Random">随机</system:String>
 
     <!--  Settings  -->
-    <system:String x:Key="Settings">Settings</system:String>
-    <system:String x:Key="Scrolling">Scrolling</system:String>
-    <system:String x:Key="Looping">Looping</system:String>
-    <system:String x:Key="FitToWindow">Fit to window/image</system:String>
-    <system:String x:Key="ShowHideUI">Show/hide interface</system:String>
-    <system:String x:Key="ChangeBg">Change background</system:String>
+    <system:String x:Key="Settings">设置</system:String>
+    <system:String x:Key="Scrolling">滚动</system:String>
+    <system:String x:Key="Looping">循环</system:String>
+    <system:String x:Key="FitToWindow">适应窗口/图像</system:String>
+    <system:String x:Key="ShowHideUI">显示/隐藏界面</system:String>
+    <system:String x:Key="ChangeBg">更改背景</system:String>
     <system:String x:Key="ChangeBgTooltip">Change between background color for images with transparent background</system:String>
 
     <!--  Copy related  -->
-    <system:String x:Key="Copy">Copy</system:String>
-    <system:String x:Key="AddedToClipboard">added to clipboard</system:String>
+    <system:String x:Key="Copy">复制</system:String>
+    <system:String x:Key="AddedToClipboard">已复制到剪贴板</system:String>
 
     <!--  Copy file  -->
-    <system:String x:Key="CopyFile">Copy file</system:String>
-    <system:String x:Key="FileCopy">File added to clipboard</system:String>
-    <system:String x:Key="FileCopyPath">Copy file path</system:String>
-    <system:String x:Key="FileCopyPathMessage">File path added to clipboard</system:String>
-    <system:String x:Key="FileCutMessage">File added to move clipboard</system:String>
+    <system:String x:Key="CopyFile">复制文件</system:String>
+    <system:String x:Key="FileCopy">已添加文件至剪贴板</system:String>
+    <system:String x:Key="FileCopyPath">复制文件路径</system:String>
+    <system:String x:Key="FileCopyPathMessage">已添加文件路径至剪贴板</system:String>
+    <system:String x:Key="FileCutMessage">已添加文件至剪贴板，即将移动</system:String>
 
     <!--  Copy image  -->
-    <system:String x:Key="CopyImage">Copy image</system:String>
+    <system:String x:Key="CopyImage">复制图像</system:String>
     <system:String x:Key="CopiedImage">Copied image to clipboard</system:String>
     <system:String x:Key="CopyImageTooltip">Copy as Windows clipboard image</system:String>
 
